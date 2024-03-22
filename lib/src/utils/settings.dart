@@ -1,0 +1,4 @@
+const String appId = '1ba5b7d62ccf45969d23c2d7ff46726f';
+const String serverKey = "AAAAHMysjE0:APA91bHRTN3SdkXZJfKuQuOwe3DaAUi2U8G11PQBt9j2VEKLC8hN8L5ml2JDi7xKLuOstxBMCx8vTlNkVXq8zaN1TiwfgBAKSfuQdm1qaSUAlb6T2p9Emq60ZHidmSgWNDh7IxXoo90O";
+const String token = '007eJxTYKifO686ubb78os2ca1OO84PWjP3pO7va5vdHj/hyZNlQR4KDIZJiaZJ5ilmRsnJaSamlmaWKUbGyUYp5mlpJmbmRmZp57bppTYEMjKcWX6PmZEBAkF8HoaS1OISheSMxLy81BwGBgDpDiTK';
+const String apiUrl = "https://fcm.googleapis.com/fcm/send";

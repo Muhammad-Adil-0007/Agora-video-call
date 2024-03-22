@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123692944461",
+    "project_id": "video-call-assessment",
+    "storage_bucket": "video-call-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123692944461:android:eb9737af5fe4eff7886004",
+        "android_client_info": {
+          "package_name": "com.example.video_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf1xV79-UiGvbmtdCyPzT2qD9Jx5U0XnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
